@@ -1,6 +1,6 @@
 /* Global Variables */
 //API credentials on OpenWeatherMap.com
-let apiKey = '7d8fd33324a788c42de65a6628db30de';
+const apiKey = '7d8fd33324a788c42de65a6628db30de';
 // Create a new date instance dynamically with JS
 let d = new Date();
 let newDate = d.getMonth()+1+'.'+ d.getDate()+'.'+ d.getFullYear();
